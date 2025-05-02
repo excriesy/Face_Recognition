@@ -74,5 +74,5 @@ Face_Recognition/
 
 
 ```
-> ⚠️ Not: `face_recognition` kütüphanesi `dlib` üzerine kuruludur. `dlib` derleme gerektirdiğinden, Windows kullanıcılarının `CMake`'i kurması ve sistem PATH'ine eklemesi gerekir. Ayrıca Visual C++ Build Tools yüklü olmalıdır.
+> ⚠️ Not: `face_recognition` kütüphanesi `dlib` üzerine kuruludur. `dlib` derleme gerektirdiğinden, Windows kullanıcılarının `CMake`'i kurması ve sistem PATH'ine eklemesi gerekir.
 
